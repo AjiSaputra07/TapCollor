@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">tapColor</string>
+    <string name="box_merah">MERAH</string>
+    <string name="box_kuning">KUNING</string>
+    <string name="box_hijau">HIJAU</string>
+    <string name="box_biru">BIRU</string>
+    <string name="box_orange">ORANGE</string>
+    <string name="box_clear">CLEAR</string>
+</resources>
